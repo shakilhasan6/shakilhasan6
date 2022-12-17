@@ -35,6 +35,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakilhasan6&show_icons=true&locale=en" alt="shakilhasan6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilhasan6&" alt="shakilhasan6" />
+ <p>
+  <a href="https://github.com/shakilhasan6" >SHAKIL HASAN</a>
+</p>
  
-<p  href="https://github.com/shakilhasan6" alt="shakilhasan6">SHAKIL HASAN</p>
+
 
