@@ -36,5 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilhasan6&" alt="shakilhasan6" />
  
-</p align="center" href="https://github.com/shakilhasan6" alt="shakilhasan6"/>
+<p  href="https://github.com/shakilhasan6" alt="shakilhasan6">SHAKIL HASAN</p>
 
